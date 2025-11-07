@@ -1,0 +1,12 @@
+apache-airflow==2.9.0
+pandas
+requests
+delta-spark
+pyspark==3.5.1
+boto3
+pyarrow
+great-expectations
+duckdb
+dbt-core
+dbt-duckdb
+python-dotenv
